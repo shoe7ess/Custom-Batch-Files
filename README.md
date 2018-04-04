@@ -1,2 +1,2 @@
 # Custom-Batch-Files
-.bat files files I"ve created
+This is a repository for all custom .bat files I've created
